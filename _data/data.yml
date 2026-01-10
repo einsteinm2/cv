@@ -46,15 +46,13 @@ sidebar:
   interests:
     title: Interests
     info:
-    - item: Climbing
+    - item: STEM Leadership, STEM Education
       link:
-
-
-    - item: Snowboarding
+      
+    - item: Quantum Computing
       link:
-
-
-    - item: Cooking
+      
+    - item: Deep Learning
       link:
 
 
@@ -285,4 +283,4 @@ skills:
     level: 60%
 
 footer: >
-  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  Einstein Morales &copy; 2026
