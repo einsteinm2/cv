@@ -77,6 +77,7 @@ education:
       pretium quis, sem.
         - Bullet point
         - Bullet point
+    details:     
   - degree: MS in Scientific Computing
     university: University of Puerto Rico at Mayagüez
     time: July 2013
@@ -88,6 +89,7 @@ education:
       pretium quis, sem.
         - Bullet point
         - Bullet point
+    details: 
   - degree: BS in Mathematics
     university: Universidad del Atlántico. Colombia
     time: March 2010
@@ -99,7 +101,7 @@ education:
       pretium quis, sem.
         - Bullet point
         - Bullet point
-        
+    details:     
 experiences:
   title: Experiences
   info:
