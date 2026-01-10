@@ -69,22 +69,16 @@ education:
   - degree: PhD in Computer and Information Science and Engineering
     university: University of Puerto Rico at Mayagüez
     time: July 2019
-    details:  
+    details:  #
   - degree: MS in Scientific Computing
     university: University of Puerto Rico at Mayagüez
     time: July 2013
-    details:  
+    details:  #
   - degree: BS in Mathematics
     university: Universidad del Atlántico. Colombia
     time: March 2010
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+    details: #
+ 
 
 experiences:
   title: Experiences
