@@ -13,19 +13,19 @@ sidebar:
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  email: einstein.morales02@gmail.com
+  phone: #012 345 6789
+  timezone: #America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
+  website: #https://example.com/ # Include the full website URL, including "http://" or "https://".
+  linkedin: einsteinm-morales
+  xing:
+  github: einsteinm2
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
+  bluesky: #'@jekyllrb.bsky.social' # Specify your full Bluesky handle
+  twitter: #'@jekyllrb'
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -37,15 +37,12 @@ sidebar:
   languages:
     title: Languages
     info:
-    - idiom: English
-      level: Native
-
-    - idiom: French
-      level: Professional
-
     - idiom: Spanish
-      level: Professional
-
+      level: Native
+      
+    - idiom: English
+      level: Intermediate
+  
   interests:
     title: Interests
     info:
