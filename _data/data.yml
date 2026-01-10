@@ -37,29 +37,29 @@ sidebar:
   interests:
     title: Interests
     info:
-    - item: Climbing
+    - item: STEM Leadership, STEM Education
       link:
 
 
-    - item: Snowboarding
+    - item: Quantum Computing
       link:
 
 
-    - item: Cooking
+    - item: Deep Learning
       link:
 
 
   languages:
     title: Languages
     info:
-    - idiom: English
+    - idiom: Spanish
       level: Native
 
-    - idiom: French
-      level: Professional
+    - idiom: English
+      level: Intermediate
 
-    - idiom: Spanish
-      level: Professional
+    - idiom: 
+      level: 
 
 
 career-profile:
