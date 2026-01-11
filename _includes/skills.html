@@ -7,20 +7,30 @@
     </span>
     {{ skills.title }}
   </h2>
+ 
+<!--  <div class="skillset"> -->
+<!--    {% for skill in skills.toolset %} -->
+<!--    <div class="item"> -->
+<!--      <h3 class="level-title">{{ skill.name }}</h3> -->
+<!--      {% assign skill_level = 'width: ' | append: skill.level %} -->
+<!--      <div class="level-bar"> -->
+<!--        <div class="level-bar-inner" style="{{skill_level}}"></div> -->
+<!--      </div> -->
+<!--      <!--//level-bar--> -->
+<!--    </div> -->
+<!--    <!--//item--> -->
+<!--    {% endfor %} -->
+<!--  </div> -->
+  
 
-  <div class="skillset">
+<div class="skillset">
+  <h3 class="level-title">
     {% for skill in skills.toolset %}
-    <div class="item">
-      <h3 class="level-title">{{ skill.name }}</h3>
-      {% assign skill_level = 'width: ' | append: skill.level %}
-      <div class="level-bar">
-        <div class="level-bar-inner" style="{{skill_level}}"></div>
-      </div>
-      <!--//level-bar-->
-    </div>
-    <!--//item-->
+      {{ skill.name }}{% unless forloop.last %}, {% endunless %}
     {% endfor %}
-  </div>
+  </h3>
+</div>
+
 </section>
 <!--//skills-section-->
 {% endif %}
