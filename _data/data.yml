@@ -120,7 +120,7 @@ services:
     details: |
       Coordinated robotics and programming activities for children in bilingual after-school and summer programs.
   - role: Computer Skills Instructor
-    time: July 2024 & June 2025
+    time: July 2024 , June 2025
     company: Centro Hispano de East Tennessee
     details: |
       Facilitated computer skills training for Small Business program participants using Google Workspace.
@@ -133,8 +133,7 @@ services:
     time: Jan 2023 - Aug 2023
     company: Participatory Action Research Class, University of Tennessee
     details: |
-      Documented community stories of Latino immigrants through interviews; contributed to participatory research and final
-project design.
+      Documented community stories of Latino immigrants through interviews; contributed to participatory research and final project design.
   - role: Volunteer Math Tutor
     time: Feb 2023
     company: HiSET Program, Centro Hispano de East Tennessee
