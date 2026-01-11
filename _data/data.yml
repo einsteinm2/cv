@@ -77,7 +77,7 @@ education:
   - degree: PhD in Computer and Information Science and Engineering
     university: University of Puerto Rico at Mayagüez
     time: July 2019
-    details: |
+    #details: |
   - degree: MS in Scientific Computing
     university: University of Puerto Rico at Mayagüez
     time: July 2013
