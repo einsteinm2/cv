@@ -183,10 +183,10 @@ certifications:
 
 projects:
   title: Projects
-  intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+  #intro: >
+    #You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   assignments:
-  - title: Making Robotics, Community STEM Program | Knoxville, TN
+  - title: Making Robotics, Community STEM Project | Knoxville, TN
     link: "www.makingrobotics.com"
     tagline: "Small business STEM education project focused on inspiring children in Knoxville to explore science, technology, and electronics through hands-on robotics and coding workshops"
 
