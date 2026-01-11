@@ -109,12 +109,38 @@ experiences:
 services:
   title: Community Services
   info:
-  - role: Lecturer
-    time: Jan 2019 - June 2021
-    company: Universidad Simón Bolívar, Colombia
+  - role: Volunteer Math Tutor
+    time: Oct 2025 - Present
+    company: Emerald Youth Foundation
     details: |
-      Designed and taught
-      
+      Assist students with math questions.
+  - role: Robotics Instructor
+    time: 2024 - 2025
+    company: Centro Hispano de East Tennessee
+    details: |
+      Coordinated robotics and programming activities for children in bilingual after-school and summer programs.
+  - role: Computer Skills Instructor
+    time: July 2024 & June 2025
+    company: Centro Hispano de East Tennessee
+    details: |
+      Facilitated computer skills training for Small Business program participants using Google Workspace.
+  - role: Digital Literacy Instructor
+    time: Oct 2025 - Present
+    company: Knoxville Chamber
+    details: |
+      Provided digital literacy and computer skills training for adults in eKnox Community Digital Literacy Program
+  - role: Community Storytelling Fell
+    time: Jan 2023 - Aug 2023
+    company: Participatory Action Research Class, University of Tennessee
+    details: |
+      Documented community stories of Latino immigrants through interviews; contributed to participatory research and final
+project design.
+  - role: Volunteer Math Tutor
+    time: Feb 2023
+    company: HiSET Program, Centro Hispano de East Tennessee
+    details: |
+      Supported adult learners in developing foundational mathematics skills.
+                
 certifications:
   title: Certifications
   list:
