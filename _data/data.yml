@@ -7,9 +7,6 @@ sidebar:
   about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
   education: False # set to False if you want education in main section instead of in sidebar
 
-graduation:
-  details: False 
-
   # Profile information
   name: Einstein Morales
   tagline: PhD in Computer and Information Science and Engineering
@@ -80,14 +77,7 @@ education:
   - degree: PhD in Computer and Information Science and Engineering
     university: University of Puerto Rico at Mayagüez
     time: July 2019
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+    #details: |
   - degree: MS in Scientific Computing
     university: University of Puerto Rico at Mayagüez
     time: July 2013
@@ -98,12 +88,12 @@ education:
     #details: |
     
 experiences:
-  title: Experiences
+  title: Academic Appointments
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
-    details: |
+  - role: Lecturer
+    time: Jan 2019 - June 2021
+    company: Universidad Simón Bolívar, Colombia
+    #details: |
       Describe your role here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
       Cum sociis natoque penatibus et magnis dis parturient montes,
