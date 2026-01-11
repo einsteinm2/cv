@@ -248,15 +248,15 @@ conferences:
 
 #      He is a great employee!
 
-skills:
+tskills:
   title: Skills &amp; Proficiency
 
   toolset:
-  - name: Python
-#    level: 98%
+  - name: Data Analysis and Reporting
+    tools: Sheets, Excel, Pandas, Numpy, Scikit Learn, MATLAB
 
-  - name: MATLAB
-#    level: 98%
+  - name: Office and Collaboration tools
+    tools: Google Workspace, Office365, Zoom, LaTeX
 
 #  - name: Angular
 #    level: 98%
