@@ -198,25 +198,20 @@ oss:
 
 publications:
   title: Publications
-  intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
+  #intro: |
+  #  You can list your publications in this section. Lorem ipsum dolor sit
+  #  amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+  #  bibendum fringilla a eu lectus.
   papers:
-  - title: The Art of Computer Programming
-    link: "#"
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
+  - title: On fast implementations of elliptic curve point multiplication.
+    link: "https://dl.acm.org/doi/10.1145/3476883.3520223"
+    authors: Einstein Morales
+    conference:  In Proceedings of the 2022 ACM Southeast Conference (ACM SE '22). Association for Computing Machinery.  New York, NY, USA. 173-180
 
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    link: "#"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-  - title: A syntax directed compiler for Algol 60
-    link: "#"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
+  - title: "Parallel Watermarking of Images in the Frequency Domain"
+    link: "https://scpe.org/index.php/scpe/article/view/1090"
+    authors: Bollman, D., Bustillo, A., and Morales, E.
+    conference: "Scalable Computing: Practice an Experience SCPE. 16. 2025"
 
 #recommendations:
 #  title: Recommendations
