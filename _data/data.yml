@@ -81,7 +81,11 @@ education:
   - degree: MS in Scientific Computing
     university: University of Puerto Rico at Mayagüez
     time: July 2013
-    details: |
+    #details: |
+  - degree: BS in Mathematics
+    university: Universidad del Atlántico. Colombia
+    time: March 2010
+    #details: |
     
 experiences:
   title: Experiences
