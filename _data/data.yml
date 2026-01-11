@@ -129,7 +129,7 @@ services:
     company: Knoxville Chamber
     details: |
       Provided digital literacy and computer skills training for adults in eKnox Community Digital Literacy Program
-  - role: Community Storytelling Fell
+  - role: Community Storytelling Fellow
     time: Jan 2023 - Aug 2023
     company: Participatory Action Research Class, University of Tennessee
     details: |
@@ -248,11 +248,11 @@ conferences:
 
 #      He is a great employee!
 
-#skills:
-#  title: Skills &amp; Proficiency
+skills:
+  title: Skills &amp; Proficiency
 
-#  toolset:
-#  - name: Python & Django
+  toolset:
+  - name: Python
 #    level: 98%
 
 #  - name: Javascript & jQuery
