@@ -188,21 +188,13 @@ projects:
 
 
 oss:
-  title: OSS Contributions
-  intro: >
-    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+  title: Contributions
+  #intro: >
+  #  You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   contributions:
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+  - title: Nuestras Voces: A Storytelling Project
+    link: "https://www.knoxnews.com/story/news/local/2024/05/28/nuestras-voces-book-knoxville-latino-community-university-of-tennessee-centro-hispano/73452325007/"
+    tagline: "Designed the book cover and supported story documentation for a community storytelling publication on Latino immigrant experiencess"
 
 publications:
   title: Publications
