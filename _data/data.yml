@@ -258,17 +258,19 @@ tskills:
   - name: Office and Collaboration tools
     tools: Google Workspace, Office365, Zoom, LaTeX
 
-#  - name: Angular
-#    level: 98%
+  - name: Programming
+    tools: Python, C++, HTML
+    
+  - name: Media Tool
+    tools: Canva, CapCut
 
-#  - name: HTML5 & CSS
-#    level: 95%
+  - name: LMS
+    tools: Moodle, Google Classroom, Canvas
 
-#  - name: Ruby on Rails
-#    level: 85%
+  - name: STEM Tools
+    tools: Arduino, Micro:Bit, Lego Education, Scratch, 3D Printing and Design
 
-#  - name: Sketch & Photoshop
-#    level: 60%
+
 
 footer: >
   Einstein Morales &copy; 2026
