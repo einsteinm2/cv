@@ -1,0 +1,22 @@
+{% assign tskills = site.data.data.tskills %} {% if tskills %}
+<section class="tskills-section section">
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-wrench fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ tskills.title }}
+  </h2>
+ 
+  <div class="tskillset"> 
+     {% for skill in tskills.toolset %} 
+     <div class="item"> 
+       <h3 class="level-title">{{ skill.name }}: {{ skill.tools }}</h3>
+     </div> 
+    {% endfor %} 
+  </div> 
+  
+
+</section>
+<!--//tskills-section-->
+{% endif %}
