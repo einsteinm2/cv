@@ -141,45 +141,41 @@ services:
       Supported adult learners in developing foundational mathematics skills.
                 
 certifications:
-  title: Certifications
+  title: Trainings
   list:
-  - name: CV Builder
-    start: 2020
-    end: 2021
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.google.com
-    credentialname: Google
-    details: |
-      Details about cert. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+  - name: Small Business Training Program
+    start: April 2023
+    end: Aug 2023
+    organization: Centro Hispano de East Tennessee
+    #credentialid: 111-222
+    #credentialurl: www.google.com
+    #credentialname: Google
+    #details: |
+    #  Details about cert. Lorem ipsum dolor sit amet, consectetur
+    #  adipiscing elit.
+    #  Nullam eget orci purus. Nullam ultrices neque nibh.
+    #  Aenean fermentum, felis vulputate suscipit accumsan,
+    #  sem enim bibendum augue, sed convallis arcu lacus at dui.
+    #  Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+    #  Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+    #  Praesent venenatis erat non augue suscipit consectetur.
 
-      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-      fringilla vel. Ut euismod, sem sed vulputate venenatis,
-      justo diam viverra velit, sed rhoncus leo leo eu justo.
-      Suspendisse placerat risus ante, sed porta nisi blandit at.
-  - name: Git learning
-    start: 2019
-    end:
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.github.com
-    credentialname: Github
-    details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+  - name: Machine Learning and Data Science
+    start: Aug 2021
+    end: Dec 2021
+    organization: National University of Colombia
+    #credentialid: 111-222
+    #credentialurl: www.github.com
+    #credentialname: Github
+    #details: |
+    #  Older certification. Lorem ipsum dolor sit amet, consectetur
+    #  adipiscing elit.
+    #  Nullam eget orci purus. Nullam ultrices neque nibh.
+    #  Aenean fermentum, felis vulputate suscipit accumsan,
+    #  sem enim bibendum augue, sed convallis arcu lacus at dui.
+    #  Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+    #  Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+    #  Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
   title: Projects
@@ -188,7 +184,7 @@ projects:
   assignments:
   - title: Making Robotics, Community STEM Project | Knoxville, TN
     link: "www.makingrobotics.com"
-    tagline: "Small business STEM education project focused on inspiring children in Knoxville to explore science, technology, and electronics through hands-on robotics and coding workshops"
+    tagline: "Small business STEM education project focused on inspiring hispanic children in Knoxville to explore science, technology, and electronics through hands-on robotics and coding workshops"
 
 
 oss:
