@@ -93,7 +93,9 @@ experiences:
   - role: Lecturer
     time: Jan 2019 - June 2021
     company: Universidad Simón Bolívar, Colombia
-    #details: |
+    details: |
+      Designed and taught undergraduate courses in mathematics and computing including Calculus I, II | Descriptive Statistics |
+Pre-Calculus | Discrete Mathematics | Digital Logic
   - role: Senior Software Engineer
     time: 2014 - 2015
     company: Google, London
