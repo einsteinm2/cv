@@ -3,7 +3,7 @@
 #
 
 sidebar:
-  position: left # position of the sidebar : left or right
+  position: right # position of the sidebar : left or right
   about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
   education: False # set to False if you want education in main section instead of in sidebar
 
@@ -106,6 +106,15 @@ experiences:
     details: |
       Supported instruction in undergraduate math and computer courses. Coordinated and managed academic programs and diagnostic assessments serving 250-500 students, including scheduling, exam development, teaching assistant support, and accessibility accommodations.
 
+experiences:
+  title: Academic Appointments
+  info:
+  - role: Lecturer
+    time: Jan 2019 - June 2021
+    company: Universidad Simón Bolívar, Colombia
+    details: |
+      Designed and taught undergraduate
+      
 certifications:
   title: Certifications
   list:
