@@ -78,17 +78,10 @@ education:
     university: University of Puerto Rico at Mayagüez
     time: July 2019
     details: |
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+  - degree: MS in Scientific Computing
+    university: University of Puerto Rico at Mayagüez
+    time: July 2013
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
     
 experiences:
   title: Experiences
