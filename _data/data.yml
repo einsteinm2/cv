@@ -211,8 +211,25 @@ publications:
   - title: "Parallel Watermarking of Images in the Frequency Domain"
     link: "https://scpe.org/index.php/scpe/article/view/1090"
     authors: Bollman, D., Bustillo, A., and Morales, E.
-    conference: "Scalable Computing: Practice an Experience SCPE (2025), 16"
+    conference: "Scalable Computing: Practice an Experience SCPE (2015), 16"
 
+publications:
+  title: Selected Presentations
+  #intro: |
+  #  You can list your publications in this section. Lorem ipsum dolor sit
+  #  amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+  #  bibendum fringilla a eu lectus.
+  papers:
+  - title: Partnership in Action: A Collaborative Approach to STEM Education in Centro Hispano Summer Program.
+    link: "https://dae.utk.edu/communityengagement/engagement-and-outreach-conference/"
+    authors: Morales, E. et al.
+    conference:  "8th Annual Engagement and Outreach Conference (2025). Knoxville, TN."
+
+  - title: "On a family of finite fields for fast fpga implementations of elliptic curve point multiplication."
+    link: "https://grupos.unican.es/amac/wmc2016/schedule.html"
+    authors: Morales, E., Orozco, E., and Bollman, D.
+    conference: "In Workshop for mathematics in communications (wmc), University of Cantabria (2016). Santander, Spain."
+    
 #recommendations:
 #  title: Recommendations
 #  list:
