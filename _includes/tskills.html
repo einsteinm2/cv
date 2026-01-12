@@ -8,13 +8,15 @@
     {{ tskills.title }}
   </h2>
  
-  <div class="skillset"> 
-     {% for skill in tskills.toolset %} 
-     <div class="item"> 
-       <h3 class="level-title">{{ skill.name }} </h3> {{ skill.tools }}
-     </div> 
-    {% endfor %} 
-  </div> 
+<table>
+  {% for skill in tskills.toolset %}
+    <tr>
+      <td><strong>{{ skill.name }}</strong></td>
+      <td>{{ skill.tools }}</td>
+    </tr>
+  {% endfor %}
+</table>
+
   
 
 </section>
