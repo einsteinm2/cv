@@ -272,7 +272,7 @@ p {
 
 .skill-row{
   display: grid;
-  grid-template-columns: max-content 1fr;
+  grid-template-columns: 2fr 3fr;
   column-gap: 12px;
   margin-bottom: 6px;
   align-items: baseline;
