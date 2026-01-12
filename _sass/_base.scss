@@ -269,7 +269,7 @@ p {
     margin-bottom: 15px;
     overflow: hidden;
     display: grid;
-    grid-template-columns: 180px 1fr; // izquierda fija, derecha flexible
+    grid-template-columns: 280px 1fr; // izquierda fija, derecha flexible
     column-gap: 12px;
     align-items: baseline;
   }
