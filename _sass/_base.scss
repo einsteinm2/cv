@@ -273,6 +273,13 @@ p {
     column-gap: 12px;
     align-items: baseline;
   }
+
+  .skill-row {
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+  column-gap: 12px;
+  margin-bottom: 6px;
+}
   
   .skill-name {
     font-size: 14px;
