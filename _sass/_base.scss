@@ -270,11 +270,12 @@ p {
     overflow: hidden;
   }
 
-  .skill-row {
+.skill-row{
   display: grid;
-  grid-template-columns: 2fr 3fr;
+  grid-template-columns: max-content 1fr;
   column-gap: 12px;
   margin-bottom: 6px;
+  align-items: baseline;
 }
   
   .skill-name {
