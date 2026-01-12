@@ -268,6 +268,19 @@ p {
   .item {
     margin-bottom: 15px;
     overflow: hidden;
+    display: grid;
+    grid-template-columns: 180px 1fr; // izquierda fija, derecha flexible
+    column-gap: 12px;
+    align-items: baseline;
+  }
+  
+  .skill-name {
+    font-size: 14px;
+    font-weight: 600;
+  }
+
+  .skill-tools {
+    font-size: 14px;
   }
   .level-title {
     font-size: 14px;
