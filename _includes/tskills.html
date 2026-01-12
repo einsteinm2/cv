@@ -8,14 +8,15 @@
     {{ tskills.title }}
   </h2>
  
-<table>
+<div class="skillset">
   {% for skill in tskills.toolset %}
-    <tr>
-      <td><strong>{{ skill.name }}</strong></td>
-      <td>{{ skill.tools }}</td>
-    </tr>
+    <div class="item">
+      <div class="skill-name">{{ skill.name }}</div>
+      <div class="skill-tools">{{ skill.tools }}</div>
+    </div>
   {% endfor %}
-</table>
+</div>
+
 
   
 
