@@ -10,12 +10,17 @@
  
 <div class="skillset">
   {% for skill in tskills.toolset %}
-    <div class="item">
-      <div class="skill-name">{{ skill.name }}</div>
-      <div class="skill-tools">{{ skill.tools }}</div>
+    <div class="skill-row">
+      <div class="skill-name">
+        <h3 class="level-title"> {{ skill.name }} </h3>
+      </div>
+      <div class="skill-tools">
+        {{ skill.tools }}
+      </div>
     </div>
   {% endfor %}
 </div>
+
 
 
   
