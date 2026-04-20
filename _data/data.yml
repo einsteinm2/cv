@@ -66,9 +66,13 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Ph.D. in Computer and Information Science and Engineering with research interests in deep learning for image processing, particularly watermarking and signal-domain methods.
-    I am also interested in quantum computing, with an emphasis on quantum algorithms for discrete mathematics, particularly finite-field representations and Boolean dynamical systems.
-    Additionally, I have experience coordinating multicultural educational and social service initiatives supporting students, families, and schools. I am the founder of Making Robotics, a STEM education project based in Knoxville, TN, focused on engaging Hispanic children in science, technology, and electronics through robotics and coding workshops.
+    Ph.D. in Computer and Information Science and Engineering with research interests in deep learning for image processing, 
+    particularly watermarking and signal-domain methods.
+    I am also interested in quantum computing, with an emphasis on quantum algorithms for discrete mathematics, 
+    particularly finite-field representations and Boolean dynamical systems.
+    Additionally, I have experience coordinating multicultural educational and social service initiatives supporting students, 
+    families, and schools. I am the founder of Making Robotics, a STEM education project based in Knoxville, TN, focused on 
+    engaging Hispanic children in science, technology, and electronics through robotics and coding workshops.
 education:
   title: Education
   info:
